@@ -12,7 +12,7 @@ __Wilfrid Laurier University__
 * CP213: Object-Oriented Programming
 
 ## 📫 How to Reach Me
-* <img src="https://github.com/devangmalhotra/devangmalhotra/assets/119973585/c15489aa-b166-47dc-9c33-5a76dcae82f1" alt="drawing" width="15"/>: [/in/devangmalhotra/](https://www.linkedin.com/in/devangmalhotra/)
+* <img src="https://github.com/devangmalhotra/devangmalhotra/assets/119973585/c15489aa-b166-47dc-9c33-5a76dcae82f1" alt="drawing" width="15"/>: [/in/devangmalhotra](https://www.linkedin.com/in/devangmalhotra/)
 * <img src="https://github.com/devangmalhotra/devangmalhotra/assets/119973585/d72ec499-77e1-4211-9d69-46dc80e0388a" alt="drawing" width="17"/>: @devangmalhotra
 
 <!--

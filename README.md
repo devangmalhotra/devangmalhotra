@@ -1,4 +1,19 @@
-### Hi there 👋
+## Hi, I'm Devang! 👋
+* Currently: Second year ```Computer Science & Business Administration``` student at ```Wilfrid Laurier University```
+* Previously: ```Senior Technical Student``` at ```Toronto Hydro```
+
+## 🙋🏽‍♂️ A Little Bit About Me
+* 🇨🇦 Born and raised in ```Toronto, Ontario, Canada```
+* ⚙️ Programming languages I've been using recently: ```Python``` and ```VBA```
+
+## 💻 I'm Currently Learning 
+__Wilfrid Laurier University__
+* CP220: Digital Electronics
+* CP213: Object-Oriented Programming
+
+## 📫 How to Reach Me
+* <img src="https://github.com/devangmalhotra/devangmalhotra/assets/119973585/c15489aa-b166-47dc-9c33-5a76dcae82f1" alt="drawing" width="15"/>: [/in/devangmalhotra/](https://www.linkedin.com/in/devangmalhotra/)
+* <img src="https://github.com/devangmalhotra/devangmalhotra/assets/119973585/d72ec499-77e1-4211-9d69-46dc80e0388a" alt="drawing" width="17"/>: @devangmalhotra
 
 <!--
 **devangmalhotra/devangmalhotra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

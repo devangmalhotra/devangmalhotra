@@ -1,4 +1,4 @@
-## Hi, I'm Devang! 👋
+## 👋 Hi, I'm Devang!
 * Currently: Second year ```Computer Science & Business Administration``` student at ```Wilfrid Laurier University```
 * Previously: ```Senior Technical Student``` at ```Toronto Hydro```
 

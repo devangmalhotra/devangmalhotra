@@ -4,7 +4,7 @@
 
 ## 🙋🏽‍♂️ A Little Bit About Me
 * 🇨🇦 Born and raised in ```Toronto, Ontario, Canada```
-* ⚙️ Programming languages I've been using recently: ```Python```, ```Flask```, ```VBA```, ```HTML```, and ```CSS```
+* ⚙️ What I've been using recently: ```Python```, ```Flask```, ```VBA```, ```HTML```, and ```CSS```
 
 ## 💻 I'm Currently Learning 
 __Wilfrid Laurier University__

@@ -7,8 +7,8 @@
 * ⚙️ What I've been using recently: ```Python```, ```Flask```, ```VBA```, ```HTML```, and ```CSS```
 
 ## 💻 I'm Currently On My First Co-op Term 
-__Nissan Motor Corporation__
-* Dealer Performance Analyst
+__Dealer Performance Analyst at Nissan Motor Corporation__
+
 
 ## 📫 How to Reach Me
 * <img src="https://github.com/devangmalhotra/devangmalhotra/assets/119973585/c15489aa-b166-47dc-9c33-5a76dcae82f1" alt="drawing" width="15"/>: [/in/devangmalhotra](https://www.linkedin.com/in/devangmalhotra/)

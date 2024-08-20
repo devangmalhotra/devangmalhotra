@@ -1,4 +1,7 @@
 ## 👋 Hi, I'm Devang!
+[![Leetcode Stats](https://leetcard.jacoblin.cool/devangmalhotra?theme=unicorn)](https://leetcode.com/devangmalhotra)
+
+
 * Currently: Second year ```Computer Science & Business Administration``` student at ```Wilfrid Laurier University```
 * Previously: ```Senior Technical Student``` at ```Toronto Hydro```
 

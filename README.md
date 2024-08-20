@@ -12,7 +12,7 @@
 </div>
 <br>
 
-* Currently: Second year ```Computer Science & Business Administration``` student at ```Wilfrid Laurier University```
+* Currently: ```Dealer Performance Analyst``` at ```Nissan Motor Corporation```
 * Previously: ```Senior Technical Student``` at ```Toronto Hydro```
 
 ## 🙋🏽‍♂️ A Little Bit About Me

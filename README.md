@@ -12,15 +12,20 @@
 </div>
 <br>
 
-* Currently: ```Dealer Performance Analyst``` at ```Nissan Motor Corporation```
+* Currently: ```Student``` at ```Wilfrid Laurier University```
+* Previously: ```Dealer Performance Analyst``` at ```Nissan Motor Corporation```
 * Previously: ```Senior Technical Student``` at ```Toronto Hydro```
 
 ## 🙋🏽‍♂️ A Little Bit About Me
 * 🇨🇦 Born and raised in ```Toronto, Ontario, Canada```
 * ⚙️ What I've been using recently: ```Python```, ```Flask```, ```VBA```, ```HTML```, and ```CSS```
 
-## 💻 I'm Currently On My First Co-op Term 
-__Dealer Performance Analyst at Nissan Motor Corporation__
+## 💻 I'm Currently In My Third Year of University 
+* ```CP386```: Operating Systems
+* ```BU231```: Business Law
+* ```CP312```: Algorithm Design/Analysis
+* ```CP317```: Software Engineering
+* ```CP340```: E-commerce
 
 
 ## 📫 How to Reach Me

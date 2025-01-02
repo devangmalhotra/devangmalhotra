@@ -12,7 +12,7 @@
 </div>
 <br>
 
-* Currently: ```Student``` at ```Wilfrid Laurier University```
+* Currently: ```Data Analyst``` at ```Yamaha Motor Canada``` and ```Student``` at ```Wilfrid Laurier University```
 * Previously: ```Dealer Performance Analyst``` at ```Nissan Motor Corporation```
 * Previously: ```Senior Technical Student``` at ```Toronto Hydro```
 
@@ -20,13 +20,8 @@
 * 🇨🇦 Born and raised in ```Toronto, Ontario, Canada```
 * ⚙️ What I've been using recently: ```Python```, ```Flask```, ```VBA```, ```HTML```, and ```CSS```
 
-## 💻 I'm Currently In My Third Year of University 
-* ```CP386```: Operating Systems
-* ```BU231```: Business Law
-* ```CP312```: Algorithm Design/Analysis
-* ```CP317```: Software Engineering
-* ```CP340```: E-commerce
-
+## 💻 I'm Currently Completing My Second Co-op Term
+* ```Data Analyst``` at ```Yamaha Motor Canada```
 
 ## 📫 How to Reach Me
 * <img src="https://github.com/devangmalhotra/devangmalhotra/assets/119973585/c15489aa-b166-47dc-9c33-5a76dcae82f1" alt="drawing" width="15"/>: [/in/devangmalhotra](https://www.linkedin.com/in/devangmalhotra/)

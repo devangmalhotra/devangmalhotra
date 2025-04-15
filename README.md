@@ -8,7 +8,7 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/devangmalhotra?theme=unicorn">
+  <img src="https://leetcard.jacoblin.cool/devangmalhotra?theme=nord&font=Sen">
 </div>
 <br>
 

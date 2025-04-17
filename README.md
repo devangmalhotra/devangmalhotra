@@ -11,7 +11,8 @@
 </div>
 <br>
 
-* Currently: ```Data Analyst``` at ```Yamaha Motor Canada``` and ```Student``` at ```Wilfrid Laurier University```
+* Currently: ```Student``` at ```Wilfrid Laurier University```
+* Previously: ```Data Analyst``` at ```Yamaha Motor Canada```
 * Previously: ```Dealer Performance Analyst``` at ```Nissan Motor Corporation```
 * Previously: ```Senior Technical Student``` at ```Toronto Hydro```
 
@@ -19,8 +20,12 @@
 * 🇨🇦 Born and raised in ```Toronto, Ontario, Canada```
 * ⚙️ What I've been using recently: ```Python```, ```VBA```, ```HTML```, ```CSS```, ```JavaScript```, ```React```, and ```SQL```
 
-## 💻 I'm Currently Completing My Second Co-op Term
-* ```Data Analyst``` at ```Yamaha Motor Canada```
+## 💻 I'm Currently Completing My Third Year of University
+* ```BU283: Financial Management I```
+* ```BU275: Business Decision Models```
+* ```CP468: Artificial Intelligence```
+* ```CP373: Ethics & Professional Practice```
+* ```EC260: Microeconomic Analysis```
 
 ## 📫 How to Reach Me
 * <img src="https://github.com/devangmalhotra/devangmalhotra/assets/119973585/c15489aa-b166-47dc-9c33-5a76dcae82f1" alt="drawing" width="15"/>: [/in/devangmalhotra](https://www.linkedin.com/in/devangmalhotra/)

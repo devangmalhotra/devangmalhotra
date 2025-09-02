@@ -11,10 +11,11 @@
 </div>
 <br>
 
+* Currently: ```Data Analyst``` at ```Yamaha Motor Canada``` (Fall 2025)
 * Currently: ```Student``` at ```Wilfrid Laurier University```
-* Previously: ```Data Analyst``` at ```Yamaha Motor Canada```
-* Previously: ```Dealer Performance Analyst``` at ```Nissan Motor Corporation```
-* Previously: ```Senior Technical Student``` at ```Toronto Hydro```
+* Previously: ```Data Analyst``` at ```Yamaha Motor Canada``` (Winter 2025)
+* Previously: ```Dealer Performance Analyst``` at ```Nissan Motor Corporation``` (Spring 2024)
+* Previously: ```Senior Technical Student``` at ```Toronto Hydro``` (Spring 2023)
 
 ## 🙋🏽‍♂️ A Little Bit About Me
 * 🇨🇦 Born and raised in ```Toronto, Ontario, Canada```

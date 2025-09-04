@@ -19,7 +19,7 @@
 
 ## 🙋🏽‍♂️ A Little Bit About Me
 * 🇨🇦 Born and raised in ```Toronto, Ontario, Canada```
-* ⚙️ What I've been using recently: ```Python```, ```JavaScript```, ```SQL```, ```ReactJS```, ```Flask```
+* ⚙️ What I've been using recently: ```Python```, ```JavaScript```, ```SQL```, ```ReactJS```, and ```Flask```
 
 ## 💻 I'm Currently Completing My Third Co-op Term
 * ```Data Analyst``` at ```Yamaha Motor Canada```

@@ -9,8 +9,8 @@
 
 ## 📫 About Me/Contact Information
 <div id='personal-stats' align='center' display='block'>
-  <img src="https://streak-stats.demolab.com?user=devangmalhotra&theme=shades-of-purple&hide_border=true" alt="GitHub Streak" height='175px' />
-  <img src="https://leetcard.jacoblin.cool/devangmalhotra?theme=nord&_sm_nck=1" alt="Leetcode Stats" height='175px' />
+  <img src="https://streak-stats.demolab.com?user=devangmalhotra&theme=shades-of-purple&hide_border=true" alt="GitHub Streak" height='150px' />
+  <img src="https://leetcard.jacoblin.cool/devangmalhotra?theme=nord&_sm_nck=1" alt="Leetcode Stats" height='150px' />
 </div>
 <br/>
 

@@ -1,3 +1,40 @@
+# 👋 Hi, I'm Devang!
+<div id='github-profile-stats'>
+  <img src="https://img.shields.io/github/stars/devangmalhotra" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/followers/devangmalhotra" alt="GitHub Followers" />
+</div>
+<br/>
+
+> 4th year student BBA and Computer Science student @ Wilfrid Laurier University
+
+## 📫 About Me/Contact Information
+<div id='personal-stats' align='center' display='block'>
+  <img src="https://streak-stats.demolab.com?user=devangmalhotra&theme=shades-of-purple&hide_border=true" alt="GitHub Streak" height='175px' />
+  <img src="https://leetcard.jacoblin.cool/devangmalhotra?theme=nord&_sm_nck=1" alt="Leetcode Stats" height='175px' />
+</div>
+<br/>
+
+* 🇨🇦 Born and raised in ```Toronto, Ontario, Canada```
+* ⚙️ What I've been using recently: ```Python```, ```JavaScript```, ```SQL```, ```Pandas```, ```ReactJS```, and ```Flask```
+
+> [!IMPORTANT]
+> I reply the fastest through email.
+
+<div id='contact-info'>
+  <a href="mailto:malh2226@mylaurier.ca" target="_blank"><img src="https://img.shields.io/badge/Outlook-0072C6?style=plastic&logo=envelope&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/devangmalhotra/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0E76A8?style=plastic&logo=envelope&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/Discord:%20@devangmalhotra-5865F2?style=plastic&logo=discord&logoColor=white">
+</div>
+
+## 🛤️ Career Path
+* Fall 2025: ``Data Analyst`` @ ``Yamaha Motor Corporation``
+* Winter 2025: ``Data Analyst`` @ ``Yamaha Motor Corporation``
+* Summer 2024: ``Dealer Performance Analyst`` @ ``Nissan Motor Corporation``
+* Summer 2024: ``Senior Technical Student`` @ ``Toronto Hydro``
+
+## 🌟 Featured Projects
+
+
 <!--## 👋 Hi, I'm Devang!
 <div align="center">
   <a href="" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -43,4 +80,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Under Construction. Please check back soon!
+[comment]: # (Under Construction. Please check back soon!)

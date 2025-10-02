@@ -5,7 +5,7 @@
 </div>
 <br/>
 
-> 4th year student BBA and Computer Science student @ Wilfrid Laurier University
+> 4th year BBA and Computer Science student @ Wilfrid Laurier University
 
 ## 📫 About Me/Contact Information
 <div id='personal-stats' align='center' display='block'>

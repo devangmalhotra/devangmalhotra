@@ -47,6 +47,10 @@
   <img src='https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white'>
   <img src='https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=plastic&logo=tailwind-css&logoColor=white'>
   <img src='https://img.shields.io/badge/Flask-3BABC3?style=plastic&logo=flask&logoColor=white'>
+  <img src='https://img.shields.io/badge/Selenium-43B02A?style=plastic&logo=selenium&logoColor=white'>
+  <img src='https://img.shields.io/badge/Express-000000?style=plastic&logo=express&logoColor=white'>
+  <img src='https://img.shields.io/badge/Puppeteer-40B5A4?style=plastic&logo=puppeteer&logoColor=white'>
+  <img src='https://img.shields.io/badge/BeautifulSoup4-000000?style=plastic&logoColor=white'>
 </div>
 
 <br/>
@@ -55,6 +59,7 @@
 <div id='additional-tools'>
   <img src='https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white'>
   <img src='https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white'>
+  <img src='https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white'>
   <img src='https://img.shields.io/badge/Power%20BI-FFB903?style=plastic&logoColor=white'>
   <img src='https://img.shields.io/badge/Tableau-0176D3?style=plastic&logoColor=white'>
   <img src='https://img.shields.io/badge/Microsoft%20Word-2b579a?style=plastic&logoColor=white'>

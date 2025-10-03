@@ -69,15 +69,57 @@
 
 
 ## 🛤️ Career Path
-* Fall 2025: ``Data Analyst`` @ ``Yamaha Motor Corporation``
+* Fall 2025: ``Data Analyst`` @ ``Yamaha Motor Corporation`` (current)
 * Winter 2025: ``Data Analyst`` @ ``Yamaha Motor Corporation``
 * Summer 2024: ``Dealer Performance Analyst`` @ ``Nissan Motor Corporation``
 * Summer 2024: ``Senior Technical Student`` @ ``Toronto Hydro``
 
-## 🌟 Featured Projects
+## 📚 Relevant Courses
+> [!WARNING]
+> I am currently on a work term. My next study term will be in winter 2026.
+<details>
+  <summary>Courses I'm currently enrolled in (click to expand)</summary>
+
+> ``BU393``: Financial Management II
+> 
+> ``CP322``: Machine Learning
+> 
+> ``BU352``: Intro. to Marketing Management
+> 
+> ``BU354``: Human Resources Management
+> 
+> ``CP372``: Computer Networks
+</details>
+
+<details>
+  <summary>Previously taken relevant courses (click to expand)</summary>
+
+> ``CP164``: Data Structures I
+> 
+> ``CP212``: Windows Application Programming
+> 
+> ``CP213``: Intro. to Object-Oriented Programming
+> 
+> ``CP214``: Discrete Structures for Computer Science
+> 
+> ``CP264``: Data Structures II
+>
+> ``CP312``: Algorithm Design and Analysis I
+>
+> ``CP317``: Software Engineering
+> 
+> ``CP363``: Database I
+>
+> ``CP386``: Operating Systems
+>
+> ``CP468``: Artificial Intelligence
+</details>
+
+<div align='center'>Last Updated: 2025-10-03</div>
 
 
-<!--## 👋 Hi, I'm Devang!
+
+<!--## 👋 Hi, I'm Devang! ## 🌟 Featured Projects
 <div align="center">
   <a href="" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/devangmalhotra/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>

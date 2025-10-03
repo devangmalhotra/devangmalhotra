@@ -10,7 +10,7 @@
 ## 📫 About Me/Contact Information
 <div id='personal-stats' align='center' display='block'>
   <img src="https://streak-stats.demolab.com?user=devangmalhotra&theme=shades-of-purple&hide_border=true" alt="GitHub Streak" height='150px' />
-  <a href='https://leetcode.com/devangmalhotra'><img src="https://leetcard.jacoblin.cool/devangmalhotra?theme=nord&_sm_nck=1" alt="Leetcode Stats" height='150px'/></a>
+  <a href='https://leetcode.com/devangmalhotra' target='_blank'><img src="https://leetcard.jacoblin.cool/devangmalhotra?theme=nord&_sm_nck=1" alt="Leetcode Stats" height='150px'/></a>
 </div>
 <br/>
 
@@ -25,12 +25,6 @@
   <a href="https://www.linkedin.com/in/devangmalhotra/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0E76A8?style=plastic&logo=envelope&logoColor=white"></a>
   <img src="https://img.shields.io/badge/Discord:%20@devangmalhotra-5865F2?style=plastic&logo=discord&logoColor=white">
 </div>
-
-## 🛤️ Career Path
-* Fall 2025: ``Data Analyst`` @ ``Yamaha Motor Corporation``
-* Winter 2025: ``Data Analyst`` @ ``Yamaha Motor Corporation``
-* Summer 2024: ``Dealer Performance Analyst`` @ ``Nissan Motor Corporation``
-* Summer 2024: ``Senior Technical Student`` @ ``Toronto Hydro``
 
 ## 👨🏽‍💻Tech Stack
 **Languages**
@@ -51,8 +45,29 @@
   <img src='https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=black'>
   <img src='https://img.shields.io/badge/pandas-150458?style=plastic&logo=pandas&logoColor=white'>
   <img src='https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white'>
+  <img src='https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=plastic&logo=tailwind-css&logoColor=white'>
+  <img src='https://img.shields.io/badge/Flask-3BABC3?style=plastic&logo=flask&logoColor=white'>
 </div>
 
+<br/>
+
+**Additional Tools and Technologies**
+<div id='additional-tools'>
+  <img src='https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white'>
+  <img src='https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white'>
+  <img src='https://img.shields.io/badge/Power%20BI-FFB903?style=plastic&logoColor=white'>
+  <img src='https://img.shields.io/badge/Tableau-0176D3?style=plastic&logoColor=white'>
+  <img src='https://img.shields.io/badge/Microsoft%20Word-2b579a?style=plastic&logoColor=white'>
+  <img src='https://img.shields.io/badge/Microsoft%20PowerPoint-D04423?style=plastic&logoColor=white'>
+  <img src='https://img.shields.io/badge/Microsoft Excel-008000?style=plastic&logoColor=white'>
+</div>
+
+
+## 🛤️ Career Path
+* Fall 2025: ``Data Analyst`` @ ``Yamaha Motor Corporation``
+* Winter 2025: ``Data Analyst`` @ ``Yamaha Motor Corporation``
+* Summer 2024: ``Dealer Performance Analyst`` @ ``Nissan Motor Corporation``
+* Summer 2024: ``Senior Technical Student`` @ ``Toronto Hydro``
 
 ## 🌟 Featured Projects
 

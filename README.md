@@ -10,7 +10,7 @@
 ## 📫 About Me/Contact Information
 <div id='personal-stats' align='center' display='block'>
   <img src="https://streak-stats.demolab.com?user=devangmalhotra&theme=shades-of-purple&hide_border=true" alt="GitHub Streak" height='150px' />
-  <img src="https://leetcard.jacoblin.cool/devangmalhotra?theme=nord&_sm_nck=1" alt="Leetcode Stats" height='150px' />
+  <a href='https://leetcode.com/devangmalhotra'><img src="https://leetcard.jacoblin.cool/devangmalhotra?theme=nord&_sm_nck=1" alt="Leetcode Stats" height='150px'/></a>
 </div>
 <br/>
 
@@ -20,7 +20,7 @@
 > [!IMPORTANT]
 > I reply the fastest through email.
 
-<div id='contact-info'>
+<div id='contact-info' align='center'>
   <a href="mailto:malh2226@mylaurier.ca" target="_blank"><img src="https://img.shields.io/badge/Outlook-0072C6?style=plastic&logo=envelope&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/devangmalhotra/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0E76A8?style=plastic&logo=envelope&logoColor=white"></a>
   <img src="https://img.shields.io/badge/Discord:%20@devangmalhotra-5865F2?style=plastic&logo=discord&logoColor=white">
@@ -31,6 +31,28 @@
 * Winter 2025: ``Data Analyst`` @ ``Yamaha Motor Corporation``
 * Summer 2024: ``Dealer Performance Analyst`` @ ``Nissan Motor Corporation``
 * Summer 2024: ``Senior Technical Student`` @ ``Toronto Hydro``
+
+## 👨🏽‍💻Tech Stack
+**Languages**
+<div id='languages'>
+  <img src='https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white'>
+  <img src='https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white'>
+  <img src='https://img.shields.io/badge/CSS3-563d7c?&style=plastic&logo=css3&logoColor=white'>
+  <img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black'>
+  <img src='https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white'>
+  <img src='https://img.shields.io/badge/SQL-003B57?style=plastic&logoColor=white'>
+  <img src='https://img.shields.io/badge/VBA-008000?style=plastic&logoColor=white'>
+</div>
+
+<br/>
+
+**Libraries and Frameworks**
+<div id='libraries-and-frameworks'>
+  <img src='https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=black'>
+  <img src='https://img.shields.io/badge/pandas-150458?style=plastic&logo=pandas&logoColor=white'>
+  <img src='https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white'>
+</div>
+
 
 ## 🌟 Featured Projects
 

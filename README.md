@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Devang!
 <div id='github-profile-stats'>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=devangmalhotra.devangmalhotra" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=devangmalhotra.devangmalhotra&left_text=Visits" />
   <img src="https://img.shields.io/github/stars/devangmalhotra" alt="GitHub Stars" />
   <img src="https://img.shields.io/github/followers/devangmalhotra" alt="GitHub Followers" />
 </div>

@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Devang!
 <div id='github-profile-stats'>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=devangmalhotra.devangmalhotra" />
   <img src="https://img.shields.io/github/stars/devangmalhotra" alt="GitHub Stars" />
   <img src="https://img.shields.io/github/followers/devangmalhotra" alt="GitHub Followers" />
 </div>
@@ -115,7 +116,15 @@
 > ``CP468``: Artificial Intelligence
 </details>
 
-<div align='center'>Last Updated: 2025-10-03</div>
+## 🌟 Featured Projects
+- 🏠 **Student Housing Industry Analysis Dashboard** — built with ``React``, ``Express``, ``MySQL``, and ``Puppeteer``\
+  [``devangmalhotra/student-housing-industry-analysis``](https://github.com/devangmalhotra/student-housing-industry-analysis)
+- 🎵 **Musicube** - built with ``HTML5``, ``CSS3``, ``Python``, and ``Flask``\
+[``devangmalhotra/musicube``](https://github.com/devangmalhotra/musicube)
+- 👨🏽‍🏫 **Student Marking Application** - built with ``VBA`` and ``SQL``\
+[``devangmalhotra/student-marking-application``](https://github.com/devangmalhotra/student-marking-application)
+
+<div align='center'>Last Updated: 03/10/2025</div>
 
 
 

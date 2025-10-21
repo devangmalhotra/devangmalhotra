@@ -119,8 +119,6 @@
 ## 🌟 Featured Projects
 - 🏠 **Student Housing Industry Analysis Dashboard** — built with ``React``, ``Express``, ``MySQL``, and ``Puppeteer``\
   [``devangmalhotra/student-housing-industry-analysis``](https://github.com/devangmalhotra/student-housing-industry-analysis)
-- 🎵 **Musicube** - built with ``HTML5``, ``CSS3``, ``Python``, and ``Flask``\
-[``devangmalhotra/musicube``](https://github.com/devangmalhotra/musicube)
 - 👨🏽‍🏫 **Student Marking Application** - built with ``VBA`` and ``SQL``\
 [``devangmalhotra/student-marking-application``](https://github.com/devangmalhotra/student-marking-application)
 

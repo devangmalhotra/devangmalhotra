@@ -67,14 +67,12 @@
 
 
 ## 🛤️ Career Path
-* Fall 2025: ``Data Analyst`` @ ``Yamaha Motor Corporation`` (current)
+* Fall 2025: ``Data Analyst`` @ ``Yamaha Motor Corporation``
 * Winter 2025: ``Data Analyst`` @ ``Yamaha Motor Corporation``
 * Summer 2024: ``Dealer Performance Analyst`` @ ``Nissan Motor Corporation``
 * Summer 2024: ``Senior Technical Student`` @ ``Toronto Hydro``
 
 ## 📚 Relevant Courses
-> [!WARNING]
-> I am currently on a work term. My next study term will be in winter 2026.
 <details>
   <summary>Courses I'm currently enrolled in (click to expand)</summary>
 

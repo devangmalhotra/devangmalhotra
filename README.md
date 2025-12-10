@@ -119,8 +119,6 @@
 - 👨🏽‍🏫 **Student Marking Application** - built with ``VBA`` and ``SQL``\
 [``devangmalhotra/student-marking-application``](https://github.com/devangmalhotra/student-marking-application)
 
-<div align='center'>Last Updated: 10/21/2025</div>
-
 
 
 <!--## 👋 Hi, I'm Devang! ## 🌟 Featured Projects

@@ -14,7 +14,7 @@
 <br/>
 
 * 🇨🇦 Born and raised in ```Toronto, Ontario, Canada```
-* 4th year BBA and Computer Science Double Degree student @ Wilfrid Laurier University
+* 🎓 4th year BBA and Computer Science Double Degree student @ Wilfrid Laurier University
 * ⚙️ What I've been using recently: ```Python```, ```JavaScript```, ```SQL```, ```Pandas```, ```ReactJS```, and ```Flask```
 
 <div id='contact-info' align='left'>

@@ -6,8 +6,6 @@
 </div>
 <br/>
 
-> 4th year BBA and Computer Science student @ Wilfrid Laurier University
-
 ## 📫 About Me/Contact Information
 <div id='personal-stats' align='center' display='block'>
   <img src="https://streak-stats.demolab.com?user=devangmalhotra&theme=shades-of-purple&hide_border=true" alt="GitHub Streak" height='150px' />
@@ -16,6 +14,7 @@
 <br/>
 
 * 🇨🇦 Born and raised in ```Toronto, Ontario, Canada```
+* 4th year BBA and Computer Science Double Degree student @ Wilfrid Laurier University
 * ⚙️ What I've been using recently: ```Python```, ```JavaScript```, ```SQL```, ```Pandas```, ```ReactJS```, and ```Flask```
 
 <div id='contact-info' align='left'>

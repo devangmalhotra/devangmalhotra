@@ -111,9 +111,11 @@
 </details>
 
 ## 🌟 Featured Projects
-- 🏠 **Student Housing Industry Analysis Dashboard** — built with ``React``, ``Express``, ``MySQL``, and ``Puppeteer``\
+- 🧩 **A.I. Tic-Tac-Toe** — built with ``PostgreSQL``, ``Express``, ``React``, and ``NodeJS``\
+[``devangmalhotra/ai-tic-tac-toe``](https://github.com/devangmalhotra/ai-tic-tac-toe)
+- 🏠 **Student Housing Industry Analysis Dashboard** — built with ``React``, ``Express``, ``MySQL``, ```NodeJS```, and ``Puppeteer``\
   [``devangmalhotra/student-housing-industry-analysis``](https://github.com/devangmalhotra/student-housing-industry-analysis)
-- 👨🏽‍🏫 **Student Marking Application** - built with ``VBA`` and ``SQL``\
+- 👨🏽‍🏫 **Student Marking Application** — built with ``VBA`` and ``SQL``\
 [``devangmalhotra/student-marking-application``](https://github.com/devangmalhotra/student-marking-application)
 
 

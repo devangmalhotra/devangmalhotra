@@ -18,10 +18,7 @@
 * 🇨🇦 Born and raised in ```Toronto, Ontario, Canada```
 * ⚙️ What I've been using recently: ```Python```, ```JavaScript```, ```SQL```, ```Pandas```, ```ReactJS```, and ```Flask```
 
-> [!IMPORTANT]
-> I reply the fastest through email.
-
-<div id='contact-info' align='center'>
+<div id='contact-info' align='left'>
   <a href="mailto:malh2226@mylaurier.ca" target="_blank"><img src="https://img.shields.io/badge/Outlook-0072C6?style=plastic&logo=envelope&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/devangmalhotra/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0E76A8?style=plastic&logo=envelope&logoColor=white"></a>
   <img src="https://img.shields.io/badge/Discord:%20@devangmalhotra-5865F2?style=plastic&logo=discord&logoColor=white">

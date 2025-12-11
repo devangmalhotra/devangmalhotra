@@ -7,12 +7,6 @@
 <br/>
 
 ## 📫 About Me/Contact Information
-<div id='personal-stats' align='center' display='block'>
-  <img src="https://streak-stats.demolab.com?user=devangmalhotra&theme=shades-of-purple&hide_border=true" alt="GitHub Streak" height='150px' />
-  <a href='https://leetcode.com/devangmalhotra' target='_blank'><img src="https://leetcard.jacoblin.cool/devangmalhotra?theme=nord&_sm_nck=1" alt="Leetcode Stats" height='150px'/></a>
-</div>
-<br/>
-
 * 🇨🇦 Born and raised in ```Toronto, Ontario, Canada```
 * 🎓 4th year BBA and Computer Science Double Degree student @ Wilfrid Laurier University
 * ⚙️ What I've been using recently: ```Python```, ```JavaScript```, ```SQL```, ```Pandas```, ```ReactJS```, and ```Flask```
@@ -64,6 +58,11 @@
   <img src='https://img.shields.io/badge/Microsoft Excel-008000?style=plastic&logoColor=white'>
 </div>
 
+## 📊 Stats
+<div id='personal-stats' align='center' display='block'>
+  <img src="https://streak-stats.demolab.com?user=devangmalhotra&theme=shades-of-purple&hide_border=true" alt="GitHub Streak" height='150px' />
+  <a href='https://leetcode.com/devangmalhotra' target='_blank'><img src="https://leetcard.jacoblin.cool/devangmalhotra?theme=nord&_sm_nck=1" alt="Leetcode Stats" height='150px'/></a>
+</div>
 
 ## 🛤️ Career Path
 * Fall 2025: ``Data Analyst`` @ ``Yamaha Motor Corporation``

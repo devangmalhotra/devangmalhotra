@@ -60,7 +60,7 @@
 
 ## 📊 Stats
 <div id='personal-stats' align='center' display='block'>
-  <img src="https://streak-stats.demolab.com?user=devangmalhotra&theme=shades-of-purple&hide_border=true" alt="GitHub Streak" height='150px' />
+  <img  alt="GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/devangmalhotra?cardType=github&theme=github-dark&preferLogin=false" height='150px' />
   <a href='https://leetcode.com/devangmalhotra' target='_blank'><img src="https://leetcard.jacoblin.cool/devangmalhotra?theme=nord&_sm_nck=1" alt="Leetcode Stats" height='150px'/></a>
 </div>
 

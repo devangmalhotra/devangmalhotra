@@ -9,7 +9,7 @@
 ## 📫 About Me/Contact Information
 * 🇨🇦 Born and raised in ```Toronto, Ontario, Canada```
 * 🎓 4th year BBA and Computer Science Double Degree student @ Wilfrid Laurier University
-* ⚙️ What I've been using recently: ```Python```, ```JavaScript```, ```SQL```, ```Pandas```, ```ReactJS```, and ```Flask```
+* ⚙️ What I've been using recently: ```Python```, ```JavaScript```, ```PostgreSQL```, ```Pandas```, ```ReactJS```, and ```Flask```
 
 <div id='contact-info' align='left'>
   <a href="mailto:malh2226@mylaurier.ca" target="_blank"><img src="https://img.shields.io/badge/Outlook-0072C6?style=plastic&logo=envelope&logoColor=white"></a>

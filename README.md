@@ -51,6 +51,7 @@
   <img src='https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white'>
   <img src='https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white'>
   <img src='https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white'>
+  <img src='https://img.shields.io/badge/PostgreSQL-%23336791.svg?&style=plastic&logo=postgresql&logoColor=white'>
   <img src='https://img.shields.io/badge/Power%20BI-FFB903?style=plastic&logoColor=white'>
   <img src='https://img.shields.io/badge/Tableau-0176D3?style=plastic&logoColor=white'>
   <img src='https://img.shields.io/badge/Microsoft%20Word-2b579a?style=plastic&logoColor=white'>

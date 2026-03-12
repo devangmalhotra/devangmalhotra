@@ -1,10 +1,12 @@
 # 👋 Hi, I'm Devang!
-<div id='github-profile-stats'>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=devangmalhotra.devangmalhotra&left_text=Visits" />
+<div id='github-profile-stats' align='center'>
+  <img src="https://github.com/user-attachments/assets/2c557e59-181f-46e6-a20f-f9c45b2ad000">
+  <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=devangmalhotra.devangmalhotra&left_text=Visits" /> -->
   <!-- <img src="https://img.shields.io/github/stars/devangmalhotra" alt="GitHub Stars" /> -->
   <!-- <img src="https://img.shields.io/github/followers/devangmalhotra" alt="GitHub Followers" /> -->
 </div>
 <br/>
+
 
 ## 📫 About Me/Contact Information
 * 🇨🇦 Born and raised in ```Toronto, Ontario, Canada```

@@ -77,15 +77,15 @@
 <details>
   <summary>Courses I'm currently enrolled in (click to expand)</summary>
 
-> ``BU393``: Financial Management II
+> ``BU375``: Operations Management
 > 
-> ``CP322``: Machine Learning
+> ``CP362``: Applied Marketing
 > 
-> ``BU352``: Intro. to Marketing Management
+> ``BU398``: Organizational Behaviour II
 > 
-> ``BU354``: Human Resources Management
+> ``BU415``: Intro To Mgmt Info Systems
 > 
-> ``CP372``: Computer Networks
+> ``BU425``: Business Analytics
 </details>
 
 <details>
@@ -104,8 +104,12 @@
 > ``CP312``: Algorithm Design and Analysis I
 >
 > ``CP317``: Software Engineering
+>
+> ``CP322``: Machine Learning
 > 
 > ``CP363``: Database I
+>
+> ``CP372``: Computer Networks
 >
 > ``CP386``: Operating Systems
 >
